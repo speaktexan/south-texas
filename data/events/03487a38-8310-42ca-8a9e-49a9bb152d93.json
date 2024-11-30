@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "b0fa877e-4679-451b-9959-5e21a8f8023c": {
+      "label": "Language_Palmhurst_LM_07092024",
+      "is_offline": false,
+      "file_url": "https://ia600502.us.archive.org/6/items/language-palmhurst-lm-07092024/Language_Palmhurst_LM_07092024.m4a",
+      "duration": 3074,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Palmhurst_LM_07092024",
+  "created_at": "2024-11-30T02:27:23.065Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-11-30T02:27:23.065Z",
+  "updated_by": "speaktexan"
+}
