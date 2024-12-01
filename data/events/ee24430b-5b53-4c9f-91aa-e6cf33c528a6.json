@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "7cb4d064-120a-4bdc-83a7-6fc2bf5f99ec": {
+      "label": "Language_Mission_KR_06262024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/language-mission-kr-06262024/Language_Mission_KR_06262024.m4a",
+      "duration": 4954,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Mission_KR_06262024",
+  "created_at": "2024-12-01T22:05:21.954Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-01T22:05:21.954Z",
+  "updated_by": "speaktexan"
+}
