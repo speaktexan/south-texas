@@ -1,5 +1,2274 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is Joncarlo Ortiz, Today is July 21. I'm here in [COMMUNITY NAME] for an interview with one of\nour community members. Before we begin, I'd like to get your verbal consent for the form that we went\nover, could you please say I consent to be interviewed and audio recorded for this study? I consent to-\nfor my recording"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d191e724-7844-465a-aa4d-b431bcc0eb2b"
+    },
+    {
+      "start_time": 21,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok. To get started, can you tell me about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d278f8fd-c2d2-403d-964a-dc8bee180e4f"
+    },
+    {
+      "start_time": 26,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born and raised in [COMMUNITY NAME]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "146e040e-edec-45c0-97c6-3cf60dc770e8"
+    },
+    {
+      "start_time": 29,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me a little bit more about this community? How would you describe it to someone who\ndoesn't live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7a83d4e0-7797-4cef-bf59-b6462123bd0e"
+    },
+    {
+      "start_time": 34,
+      "end_time": 74,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It is a growing community, umm, where I have seen it grow from, umm, dirt roads to asphalt, you know,\na lot a lot of roads now. They're mor-, uhh, uhh, asphalt, the drainage system, umm, a police\ndepartment and, umm, and things like that tha- nature."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7c95fbda-fe8e-4df5-b139-a07c96cccddc"
+    },
+    {
+      "start_time": 75,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think this community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "fe6226f9-8b86-499c-ba8f-fd315c19a313"
+    },
+    {
+      "start_time": 77,
+      "end_time": 107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Umm, A lot of people are come down, i-it's gotten to be more friendly, as I get older, and I see a lot of\ndifferent people from different types of, umm, of our town, the way they live. Umm,so that's how I could\ntell."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0e9b561f-7222-49dc-9feb-a0c359492201"
+    },
+    {
+      "start_time": 108,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4a22f474-9454-49b7-b622-ed5e166c3cd4"
+    },
+    {
+      "start_time": 110,
+      "end_time": 110,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is what?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8edffa5b-e8d5-4f33-b586-e7ab7b9199d5"
+    },
+    {
+      "start_time": 111,
+      "end_time": 115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The strengths of this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "33c111e3-062d-4e07-af61-ca41f5a788ec"
+    },
+    {
+      "start_time": 116,
+      "end_time": 116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our city council"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c0772390-7391-47c8-9779-34dfe93b8f7d"
+    },
+    {
+      "start_time": 117,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm, what would you say are the weaknesses?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c49e2b21-3b38-4e64-8249-58ff5d02d094"
+    },
+    {
+      "start_time": 121,
+      "end_time": 153,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Umm, [PAUSE] Just, umm, when we're not prepared for something, I think that's our weakness. Or\nwe're not prepared for something, you know, a hurricane or anything which nobody has control over.\nAnd, umm, but we try but they try their best."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8091fdd4-1c74-45f1-8847-ff56dd83557b"
+    },
+    {
+      "start_time": 154,
+      "end_time": 161,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about your roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3de8d120-d746-4c23-864c-4418a4954e1b"
+    },
+    {
+      "start_time": 162,
+      "end_time": 184,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm very active with the church, uhh, with the [COMMUNITY ORGANIZATION NAME], The, umm,\n[COMMUNITY ORGANIZATION NAME], umm A lot of, umm, helping the community in that aspect."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8136d404-002f-4ed2-8eca-2f03f1cdc31b"
+    },
+    {
+      "start_time": 185,
+      "end_time": 188,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I know you're retired, but it says what do you work for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6d5036e3-f385-47ba-b29e-70f321b5908f"
+    },
+    {
+      "start_time": 189,
+      "end_time": 191,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I work for General Electric."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0cf60d9a-59ef-4a33-8688-cc37254d075b"
+    },
+    {
+      "start_time": 192,
+      "end_time": 197,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay.How do you think your connections in this community influence your work at General Electric?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b4ea82aa-fa43-43ca-bf42-2f094c485ada"
+    },
+    {
+      "start_time": 198,
+      "end_time": 200,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got to meet a lot of people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b7c96254-d7dd-4132-9ffe-ebfb57d86bcf"
+    },
+    {
+      "start_time": 201,
+      "end_time": 208,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to talk more about your work at General Electric. Could you tell me about how you got into\nthat role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "debf8977-b6ed-4781-8fcd-0ae9f8489a37"
+    },
+    {
+      "start_time": 209,
+      "end_time": 212,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I got a trade from my dad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "791c8825-d780-4478-a1cf-617ab47d9455"
+    },
+    {
+      "start_time": 213,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How long had you been working there?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a125d221-2ab6-44f2-b855-3e45135e2646"
+    },
+    {
+      "start_time": 215,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "37 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fafc7791-75ad-4d52-9ba1-c652ddc1bcbe"
+    },
+    {
+      "start_time": 217,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what did your typical workday look like?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "535d2e0d-6989-48b0-b1bf-f2e967c1706e"
+    },
+    {
+      "start_time": 219,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uhh, every day was something different, like it was something different, not one day was the same as\nthe other day. It's not like teaching that you see the same students every day. Every day was different I\nwould meet different people. Every day, at least eight at least eight stops, 8 different kinds of people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "05755448-ef42-4d92-8208-50b127f3ee87"
+    },
+    {
+      "start_time": 242,
+      "end_time": 242,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmm"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "110ad664-18c2-459c-b7c6-5c2f3be0d154"
+    },
+    {
+      "start_time": 243,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "From rich people to poor people."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "95ea9b42-89e5-4906-bf42-15eb3111bf3f"
+    },
+    {
+      "start_time": 245,
+      "end_time": 250,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm. What did it mean to be in General Electric in this community community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0f69d499-eaa7-480a-af0c-c45866e39ae7"
+    },
+    {
+      "start_time": 251,
+      "end_time": 251,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What's that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "142204e9-c7a9-4446-917e-7ff3b3f0c840"
+    },
+    {
+      "start_time": 252,
+      "end_time": 258,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What did it mean to be in your job in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7cb506be-b531-4999-bfe1-67323e6b9ee2"
+    },
+    {
+      "start_time": 259,
+      "end_time": 272,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Umm, People would call me andl, uhh, ask me questions about it. You know, what's the best thing to\ndo? You know, what should I do but in certain cases about a about a product? Uhh, that's what they\nwould ask me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5eb58f8e-5764-46b4-af27-f48697de129f"
+    },
+    {
+      "start_time": 273,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[NODS] Mhmm.What aspects of your job brought you the most joy or satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2b1fb70c-a948-4c68-b733-7d235693abd6"
+    },
+    {
+      "start_time": 277,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traveling"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a2bb9961-ba05-4fb2-8826-d8a7c7b0bf6d"
+    },
+    {
+      "start_time": 278,
+      "end_time": 286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Traveling. What was the what were the biggest challenges that you would face at work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2ef5012a-dfef-4078-bb84-52b9632fe705"
+    },
+    {
+      "start_time": 287,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When you couldn't figure out how to fix it"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f5c60507-c1ea-40f1-87c4-7d4da3aadb75"
+    },
+    {
+      "start_time": 289,
+      "end_time": 314,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[CHUCKLES]. Now let's talk more about your experience as a resident of this community. For this first\nset of questions. I'll read a statement to you and I like to you to indicate to what extent do you agree We\nhaving,uhh, this scale of one being completely disagree to being somewhat disagree. Three being\nagree and four being completely agree. And then if you'd like to say anything else about the statement,\njust please feel please feel free to"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "64c79c96-36c5-41bd-a329-a65adb2d8f66"
+    },
+    {
+      "start_time": 315,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay what's what's a agree and disagree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fadc7888-85f0-4d04-8fa1-405858538387"
+    },
+    {
+      "start_time": 318,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One is completely disagree and then four is agree so on that scale."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c2da01f2-1cd7-4b12-978c-796f7e28d6f2"
+    },
+    {
+      "start_time": 322,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[PUTS UP ONE FINGER] agree or [PUTS UP FOUR FINGERS]disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c0ae4071-0465-45de-aec6-c05b929653f4"
+    },
+    {
+      "start_time": 323,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4ce9dd04-319d-4998-b18d-a523928af4d3"
+    },
+    {
+      "start_time": 324,
+      "end_time": 325,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[PUTS UP ONE FINGER] agree or [PUTS UP FOUR FINGERS]disagree yeah"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6eaae97f-8f7a-4f60-a49c-874d84a2bdb4"
+    },
+    {
+      "start_time": 326,
+      "end_time": 332,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Agr- one is agree two is somewhat disagree three is somewhat agree and then four is disagree. Agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b97af27c-d8cb-421f-9e0f-9152dcbdd45c"
+    },
+    {
+      "start_time": 333,
+      "end_time": 333,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b1aa5664-7325-4ce6-8e95-902627d52372"
+    },
+    {
+      "start_time": 334,
+      "end_time": 334,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "005091d0-7cac-4350-a170-910cf700c034"
+    },
+    {
+      "start_time": 335,
+      "end_time": 335,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And one is disagree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0c3774bb-feae-42c4-a5b5-b415cfe84f63"
+    },
+    {
+      "start_time": 336,
+      "end_time": 346,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Okay just one and then and so that scale. the first phrase is I consider myself to be an American."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a30f6bc5-e51c-4205-93c7-f79b01e4d941"
+    },
+    {
+      "start_time": 347,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "cd65ce76-3f7a-4464-9993-9fd40bf4207d"
+    },
+    {
+      "start_time": 348,
+      "end_time": 355,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. Using the same skill, how would you rate the following statement? I consider myself to be a\nTexan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b7ff0d1c-83d2-4695-8419-dd28462f7ca7"
+    },
+    {
+      "start_time": 356,
+      "end_time": 359,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0c26f10c-20b6-4f38-95f9-e5a4343832be"
+    },
+    {
+      "start_time": 360,
+      "end_time": 368,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I'm just gonna read the next phrases and you can just say agree or disagree. I am a Texan first and I\nam an American first and a Texan second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a5552909-dec6-4d1b-9cbe-aa3eed45e36e"
+    },
+    {
+      "start_time": 369,
+      "end_time": 377,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[PAUSES] I agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "467e9703-ee29-48ef-a7f2-7897aa2ca8a4"
+    },
+    {
+      "start_time": 378,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am a Texan first and an American second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "aaa29c41-b4f7-44da-bf4e-44820d146ae4"
+    },
+    {
+      "start_time": 381,
+      "end_time": 381,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Wait say it again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1530be58-7a3f-4eba-8c7f-6a774a356166"
+    },
+    {
+      "start_time": 382,
+      "end_time": 388,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am a Texan first and an American second."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "52c016a8-4a7a-4f56-a592-7c1f83dd4e97"
+    },
+    {
+      "start_time": 389,
+      "end_time": 391,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[STUTTERS] Well, the first compensate for the other one."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e59f23ba-a26a-4e2a-a770-4efd084b66c1"
+    },
+    {
+      "start_time": 392,
+      "end_time": 408,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So, ok hold on, I read it wrong. Okay, which of these three statements do you agree with the\nmost? So the first one is, I'm an American first and a Texan second. Second one is I'm a Texan first\nand an American second. Or being a Texan and American are equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "51f16688-7aa0-4907-a6da-9e0b49cf07c0"
+    },
+    {
+      "start_time": 409,
+      "end_time": 409,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They're both equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1133d5bb-f429-47b9-910b-4c62eda004c2"
+    },
+    {
+      "start_time": 410,
+      "end_time": 410,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "OK,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7e2206b2-88ad-4562-80a6-004a3e213589"
+    },
+    {
+      "start_time": 411,
+      "end_time": 411,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Both of them."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "75abd162-d7db-4bfc-a44b-7c1246ff78a3"
+    },
+    {
+      "start_time": 412,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is to be a true Texan. You must know how to speak English. would you rate this one?\nUsing the same skill we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "cbb730a5-23d9-436c-a0d9-802009fd5e6c"
+    },
+    {
+      "start_time": 421,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "bf0d4aa9-8125-4440-b2f3-bf0f97a30154"
+    },
+    {
+      "start_time": 422,
+      "end_time": 426,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok. I'm about to be a true Texan, you must know how to speak Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f8c6f807-6b94-4a81-98b2-038a9c2120f9"
+    },
+    {
+      "start_time": 427,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "40dc9015-6933-4924-8d36-11c40c9ef58f"
+    },
+    {
+      "start_time": 428,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phase in my community, you can do everything you want and get everything you need even\nwhen you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "fe3585c0-6556-412e-a04d-ddad7f7d06b7"
+    },
+    {
+      "start_time": 435,
+      "end_time": 436,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "50091813-b208-4c21-964a-eec224f6b576"
+    },
+    {
+      "start_time": 437,
+      "end_time": 442,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in my community life has been pretty stable. Over the last four years things haven't changed\nmuch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "102a2e57-67e6-4c6a-a9eb-5470792ade44"
+    },
+    {
+      "start_time": 443,
+      "end_time": 444,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ok say it again."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "89da3f0a-0fb1-4280-b379-c3783bf839b5"
+    },
+    {
+      "start_time": 445,
+      "end_time": 449,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In my community life has been pretty stable over the last four years things haven't changed much."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d964b93d-6bef-4800-bea6-698005e9bae9"
+    },
+    {
+      "start_time": 450,
+      "end_time": 451,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "True."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "871fe577-fc01-4e50-8dc0-fc81c27027c4"
+    },
+    {
+      "start_time": 452,
+      "end_time": 468,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'd like to hear from you about the community itself. What are some things that have changed in\nthis community during the last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "728d799f-ea62-456d-aeab-19a0b281abfe"
+    },
+    {
+      "start_time": 469,
+      "end_time": 489,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our community, the school districts are getting better with the with the help of the school board and\numm, and the same with the city commissioners with a city with the way they run. You know"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8e3634b2-fa51-4beb-852f-a4f075eed6d9"
+    },
+    {
+      "start_time": 490,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, is this a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a4f9742b-afe0-48c3-888a-f5ff839a2e53"
+    },
+    {
+      "start_time": 493,
+      "end_time": 493,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "9e5a70c9-4f74-4350-8344-028de3401976"
+    },
+    {
+      "start_time": 494,
+      "end_time": 499,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was or is the best part about being a kid or a young person in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3e522c72-3f63-4cc7-9e47-1d465dfb1d4f"
+    },
+    {
+      "start_time": 500,
+      "end_time": 509,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[PAUSES] Mmm, family."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "847123dc-81ec-42fc-ab40-4296bef9b6c9"
+    },
+    {
+      "start_time": 510,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that that the traditional way of life in this community is going away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b74dd518-35b5-4bb3-a745-484b3d8fd3ca"
+    },
+    {
+      "start_time": 515,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "719514b6-4000-4865-b54d-99e29707ebe4"
+    },
+    {
+      "start_time": 517,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why do you- what do you think keeps things the same?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "05652ad5-2076-4c53-9cfa-d3fb86aa3876"
+    },
+    {
+      "start_time": 521,
+      "end_time": 521,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Why keeps you the same? Mhmm Umm, the uhh, families are growing everybody's growing. You know\nso we you know, it's something new everybody's we're just growing, umm, it just like we're have we\nhave more HEB's, you know, and stuff like that. Bigger families, bigger friends. I mean, more friends.\nAnd what have you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "9b731ede-b487-4851-8ce1-ca09b9bbc66b"
+    },
+    {
+      "start_time": 522,
+      "end_time": 556,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmm What is your favorite sports team Huh? Your favorite sports team."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "69c8e76c-baf7-4375-b77f-53a16a6a3813"
+    },
+    {
+      "start_time": 557,
+      "end_time": 557,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] [POINTS AT SHIRT]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c3adc196-3348-404f-8f33-98ec1ca33199"
+    },
+    {
+      "start_time": 558,
+      "end_time": 558,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Dallas Cowboys"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e66e7f56-3b15-4d06-9caf-471836028667"
+    },
+    {
+      "start_time": 559,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dallas Cowboys."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "37d2ae17-2cb4-4626-8037-3c449461b724"
+    },
+    {
+      "start_time": 560,
+      "end_time": 562,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how have they been doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5c4f5b14-ae0e-4d79-89ed-d8842c15687e"
+    },
+    {
+      "start_time": 563,
+      "end_time": 564,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ohhh [LAUGHTS] That's bad."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1fe7561c-cd3d-4502-9f68-30398f5e74b4"
+    },
+    {
+      "start_time": 565,
+      "end_time": 570,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS]. Did you have to do chores when you were younger or now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "725965d7-2e89-4539-a1e9-0462c05e65da"
+    },
+    {
+      "start_time": 571,
+      "end_time": 571,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6297fb8a-6c6e-4554-bb7a-5f635aaad582"
+    },
+    {
+      "start_time": 572,
+      "end_time": 582,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "349c3d73-c1fe-4add-851f-62a3e4012d31"
+    },
+    {
+      "start_time": 583,
+      "end_time": 587,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHS] Umm, mmm, working in the garden, working in the you know the, uhh, yard."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "29ee7b11-e9d2-437b-b1bf-a2640389425f"
+    },
+    {
+      "start_time": 588,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. What was a chore that you didn't mind doing so much?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a52bd9a2-50bd-42a2-8128-5643f37f0270"
+    },
+    {
+      "start_time": 592,
+      "end_time": 602,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was that? That I didn't mind doing so much? Ohh umm, barbecuing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7f991a4d-168b-4859-a74b-af393f7371d8"
+    },
+    {
+      "start_time": 603,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore, but not really doing it like that?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "db68b152-d014-4193-bb15-f386e57533e1"
+    },
+    {
+      "start_time": 604,
+      "end_time": 604,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was that? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ccf732f4-81ce-4f07-b279-3ea7fb56cf70"
+    },
+    {
+      "start_time": 605,
+      "end_time": 613,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore because you weren't really doing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4d8710f0-00ea-4121-8c43-43de943fff5e"
+    },
+    {
+      "start_time": 614,
+      "end_time": 615,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "af04fa50-5600-4a98-ac67-14d8d8ace55a"
+    },
+    {
+      "start_time": 616,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think that it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5e90294f-6e7d-48e1-954d-79a4b6ecbcab"
+    },
+    {
+      "start_time": 620,
+      "end_time": 628,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uhh, yeah, it is. It's getting to that point. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0c68bd02-46fe-4579-aad8-f0a16a1995bf"
+    },
+    {
+      "start_time": 629,
+      "end_time": 639,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about another person thinking the other person was not near you, but then\nturned around and saw that person standing right next to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "96b23ed4-ef6d-473f-bfd3-9e146e8bba3c"
+    },
+    {
+      "start_time": 640,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "78d75e06-9651-42ce-890b-f60825fc5354"
+    },
+    {
+      "start_time": 641,
+      "end_time": 646,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about that and what happened?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9cf46f8f-3cd7-45b3-81ed-353709773e51"
+    },
+    {
+      "start_time": 647,
+      "end_time": 647,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "He has a habit of not answering his phone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "92e3dfa9-9aef-45c6-8b6d-1999cf4b7bce"
+    },
+    {
+      "start_time": 648,
+      "end_time": 649,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c7de0404-eec3-441d-84d7-0cfaafe8b36d"
+    },
+    {
+      "start_time": 650,
+      "end_time": 654,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I called him and he was right next to me and see we picked up the phone."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1d955588-8326-4edb-91be-19361f55564b"
+    },
+    {
+      "start_time": 655,
+      "end_time": 662,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ohh [LAUGHS]. A lot of people think of the 1990s as a golden decade of pop music. Do you agree/"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ca010823-6417-4b4f-bbf7-fee9e39a2467"
+    },
+    {
+      "start_time": 663,
+      "end_time": 665,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Every year is different, you know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6592e825-f2cb-4650-9d5b-ffa5824e6a39"
+    },
+    {
+      "start_time": 666,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, thank you so much for your answers. I really appreciate you taking the time to answer my\nquestions. One last request is to read a passage so that way they can track how people speak across\nTexas. If you want to read it. I can hold the computer for you. I know you-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6fa3b448-5896-4b3b-9f98-68011bc4f7c7"
+    },
+    {
+      "start_time": 681,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[STUTTERS] I don't have my glasses."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e7fa28fd-c8d4-42f4-8810-f32c27643310"
+    },
+    {
+      "start_time": 682,
+      "end_time": 688,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, okay, but then that's okay then. Alright, I'm gonna go ahead and stop the recording and thank\nyou."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c02d226c-db68-4d17-bee9-fe21af1bb991"
+    }
+  ],
   "set": "Default",
   "event_id": "fbdc4216-f5c1-4955-97da-19165b8685f3",
   "source_id": "908cf39f-a731-4156-b7cd-697e21c88af0"
