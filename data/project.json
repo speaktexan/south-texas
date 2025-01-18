@@ -1,1 +1,43 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"speaktexan","is_private":false,"title":"South Texas","description":"Language and Culture interviews with South Texas English speakers.","language":"en","slug":"south-texas","creator":"speaktexan","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#ADFFD9","category":"Speaker"}],"tags":[{"category":"Speaker","tag":"Interviewer"},{"category":"Speaker","tag":"Participant"}]},"created_at":"2024-11-30T02:11:32.688Z","updated_at":"2024-12-02T23:10:04.768Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "speaktexan",
+    "is_private": false,
+    "title": "South Texas",
+    "description": "Language and Culture interviews with South Texas English speakers.",
+    "language": "en",
+    "slug": "south-texas",
+    "creator": "speaktexan",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#ADFFD9",
+          "category": "Speaker"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ]
+    },
+    "created_at": "2024-11-30T02:11:32.688Z",
+    "updated_at": "2025-01-18T15:47:38.004Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
