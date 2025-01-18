@@ -16,7 +16,13 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "leiahnb2",
+        "avatar_url": "https://avatars.githubusercontent.com/u/186652770?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -36,7 +42,7 @@
       ]
     },
     "created_at": "2024-11-30T02:11:32.688Z",
-    "updated_at": "2025-01-18T15:47:38.004Z",
+    "updated_at": "2025-01-18T15:55:20.917Z",
     "generate_pages_site": true
   },
   "is_private": false
