@@ -1,5 +1,1707 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 2,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is [Interviewer]. Today is June 21 2024. And I am here in [COMMUNITY NAME] for an\ninterview with one of our community members. Before we begin, I'd like to get verbal consent for the\nform that we went over. Could you please say I consent to being interviewed and audio recorded for\nthis study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "be0c1a0e-9694-4d3b-b8cd-6f2d61a7ebe7"
+    },
+    {
+      "start_time": 22,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent to being interviewed and audio recorded for this study."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8ec1fc89-38f5-4af9-87bd-9a59498b87ba"
+    },
+    {
+      "start_time": 28,
+      "end_time": 33,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get started, can you tell me about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7d4101ec-1882-43c4-8543-af60b7e18a34"
+    },
+    {
+      "start_time": 33,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I moved here after I graduated law school. And I've been here before I kind of spent all my\nsummers here. So it was a place I liked. And so I decided I would spend the rest of my life here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "83d64aa0-2b00-4338-8bc7-e0e052d2c2eb"
+    },
+    {
+      "start_time": 47,
+      "end_time": 52,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me a bit more about this community? How would you describe it to someone who doesn't\nlive here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a21b0181-7952-4384-8e66-1eec88a74603"
+    },
+    {
+      "start_time": 52,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's a beautiful place to live. You have [DIFFERENT SOUTH TEXAS REGION COMMUNITY NAME],\none of the nicest beaches in the United States, and then you're right next to [COUNTRY]. So you're\nright on the border. It's always nice and warm in the summers. And even in the winters, it's doesn't get\ntoo cold."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "60f08d52-1479-4501-86be-361c6bc8bbba"
+    },
+    {
+      "start_time": 69,
+      "end_time": 72,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think this community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "69a671bf-91e6-42bc-b89b-87e3da978465"
+    },
+    {
+      "start_time": 72,
+      "end_time": 83,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, of course, there's more houses and more people. Um, but it [STUTTER] it hasn't grown as much\nas other bigger cities, but it is growing."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "cff17214-6253-4ec0-bf5b-935511f6ed9e"
+    },
+    {
+      "start_time": 83,
+      "end_time": 87,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "085455a0-d0dd-40ec-89ac-ee7aaaef5d55"
+    },
+    {
+      "start_time": 87,
+      "end_time": 105,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people, most of the people have lived here, and the community is small. So Everybody pretty much\nknows everybody. Uh, you don't have to talk to too many people before you find out who's somebody\nwhose family is and ,uh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b0256d94-f31b-4d84-85b5-b4f2a19b9d11"
+    },
+    {
+      "start_time": 105,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are some of the weaknesses of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "22268c3b-c163-41ad-9f7d-ff0f13513c5f"
+    },
+    {
+      "start_time": 109,
+      "end_time": 122,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some of the weaknesses. Um, some families tend to have too much power. Uh, the politics sometimes,\nuh, you could say might be a little bit corrupt."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "65211d40-edb0-4e29-b67a-27ef556bd022"
+    },
+    {
+      "start_time": 122,
+      "end_time": 127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about the roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5d54ed9b-5ed7-4ea8-b54b-3ca7f1206456"
+    },
+    {
+      "start_time": 127,
+      "end_time": 139,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, I'm an attorney here. So I'm pretty much in public every single day. And I know quite a few people.\nI know all the attorneys, all the judges and most of the politicians"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "58ffa610-941a-49bf-a362-f92e838d62be"
+    },
+    {
+      "start_time": 139,
+      "end_time": 140,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b5afa5d8-330b-4442-8245-bf333e44e59f"
+    },
+    {
+      "start_time": 140,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm an attorney."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6c664459-b2b4-4ac1-83b1-5b8af34bf390"
+    },
+    {
+      "start_time": 141,
+      "end_time": 148,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think your connections in this community influence your work as a attorney?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9f96a38c-d326-4163-bb5e-2c6821513f8e"
+    },
+    {
+      "start_time": 148,
+      "end_time": 151,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do my the influences what influences [CONFUSED]?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b88c4867-eaab-4704-9366-ee9ceb105267"
+    },
+    {
+      "start_time": 151,
+      "end_time": 155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think your connections in this community influence your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "786a2b35-8a70-44c1-bc33-50d8a6fae9ba"
+    },
+    {
+      "start_time": 155,
+      "end_time": 164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, whatever I do, I'm always concerned about the people that I'm going to deal with. And then since I\nknow them all, I, uh, already know how to deal with him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d8f43f68-2958-480d-9674-4218956ad2ea"
+    },
+    {
+      "start_time": 164,
+      "end_time": 170,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'd like to talk more about your work as an attorney. Could you tell me about how you got into this\nrole?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "74614f6c-b07d-463e-8d49-9d508ffbe746"
+    },
+    {
+      "start_time": 170,
+      "end_time": 193,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was on active duty in living in [SOUTHEAST STATE], once I got off active duty. Um, I decided to go to\nlaw school, I'd seen the Clarence Thomas, um, [THINKING] court hearings that he was having when he\nwas nominated. And so I got interested in it, and I decided to check into becoming a lawyer."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2e245c3f-01f9-4815-84e6-faabb94db3a9"
+    },
+    {
+      "start_time": 193,
+      "end_time": 195,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How long have you been working?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "eaaf079f-9ad8-4d51-8730-911ba4c82dff"
+    },
+    {
+      "start_time": 195,
+      "end_time": 204,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've been working all my life. But I've been an attorney. Uh, in 2025, it'll be 30 years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "ee279986-3a50-442a-8abb-3a0ba81de46a"
+    },
+    {
+      "start_time": 204,
+      "end_time": 207,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is it typical workday look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1a84a868-2876-40dd-aa91-dd263b17c323"
+    },
+    {
+      "start_time": 207,
+      "end_time": 229,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Crazy. I have a schedule. But it changes. You never know exactly what's going to happen in one day\npeople call, people get arrested. People need an attorney. Um, I go in the morning, and sometimes the\ncourt has people for me to represent. I have a basic calendar. But it's every day is different. And you\ncan't predict what's going to happen."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9d4b4e35-e4b2-43ba-8dc0-bd685db7efdc"
+    },
+    {
+      "start_time": 229,
+      "end_time": 233,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does it mean to be an attorney in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f4ce00d9-32f7-4248-bf91-8d761e84d5cd"
+    },
+    {
+      "start_time": 233,
+      "end_time": 245,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it means that there aren't a lot of attorneys. And so it means that you help the community and, uh,\nthe community of attorneys here is very small. Everybody knows everybody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9cd7641e-9b0d-469e-b224-6483fb3ff3ad"
+    },
+    {
+      "start_time": 245,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of your job bring you the most joy or satisfaction?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "06801c3f-1460-47cf-883c-07c72024fad5"
+    },
+    {
+      "start_time": 248,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "When I can help the young kids because I do a lot of juvenile work. And I take pride in in doing the best\nfor them, because it's important that they get on the right foot at the very beginning."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "332ee661-b4a2-4b8b-905c-e159b9ca2882"
+    },
+    {
+      "start_time": 259,
+      "end_time": 263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the biggest challenges you face in your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fddd990c-81fa-438e-8196-01632f064ddf"
+    },
+    {
+      "start_time": 263,
+      "end_time": 284,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh challenges? I mean, you're insecure, because if somebody's gonna go to trial, you never know\nwhat's going to happen it, uh, and you really never know what's gonna happen until you see the judge\nand they make a final decision or you have a jury trial. So, uh, you're always on edge and [STUTTERS]\nand trying to be prepared to do the best."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a007a798-0606-4c9c-940a-4c83feb6e615"
+    },
+    {
+      "start_time": 284,
+      "end_time": 315,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now let's talk about your experiences as a resident in this community. For this first set of questions, I\nread your statement to you. And I'd like you to indicate the extent or of your agreement, which with\neach one, I'll have you give your answer on a scale of one to four where one is is completely disagree.\nTwo is somewhat disagree. Three is somewhat agree and four is completely agree. If you'd like to\ncomment on any of the statements, please feel free to. The first phrase is I consider myself to be an\nAmerican. What would you say to that for?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "780a09e1-f332-41f8-b00a-949860dbe129"
+    },
+    {
+      "start_time": 315,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "92f4739e-3144-491e-80e5-9cd486d02b96"
+    },
+    {
+      "start_time": 316,
+      "end_time": 322,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale? How would you rate the following statement? I consider myself to be a Texan."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4119f05f-a370-409d-9c01-04240a5549dd"
+    },
+    {
+      "start_time": 322,
+      "end_time": 323,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4b10991e-eeb2-4d89-89c7-d30aa7f9da21"
+    },
+    {
+      "start_time": 323,
+      "end_time": 337,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree the most strongly? One, I am an I am an\nAmerican, first and a Texan. Second. Two, I am Texan first and an American second, or being Texan\nand American art equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5abdbd2e-d153-4cef-91e5-56796948cde6"
+    },
+    {
+      "start_time": 337,
+      "end_time": 339,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7b627ae6-b0bd-4435-b1df-b984e2550ded"
+    },
+    {
+      "start_time": 339,
+      "end_time": 348,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is to be a true Texan, you must know how to speak English. What would you rate this\none? Using the same scale? We started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "47ece4fb-ebe0-4970-aa65-faa1cf025f16"
+    },
+    {
+      "start_time": 348,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One or, uh, four. I totally agreed."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "df4947b6-932a-49bd-8743-19fb1ca5c807"
+    },
+    {
+      "start_time": 351,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about to be a true Texan, you must know how to speak Spanish."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "3a4df2d9-80f2-4940-a12b-70dde1f4fd74"
+    },
+    {
+      "start_time": 356,
+      "end_time": 358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd give that about a two or three."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f4383972-99bc-4d31-bf88-eba346b906ee"
+    },
+    {
+      "start_time": 358,
+      "end_time": 366,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is in my community, you can do everything you want and get everything you need,\neven when you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "3379ed40-9bf2-4b13-9862-05ffeb33c89e"
+    },
+    {
+      "start_time": 366,
+      "end_time": 367,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a31e01a0-171c-4542-95bc-35e991740275"
+    },
+    {
+      "start_time": 367,
+      "end_time": 374,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in my community, life has been pretty stable over the last 40 years, things haven't changed\nmuch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "23f4568a-b981-4c57-9684-38c8cdd1a137"
+    },
+    {
+      "start_time": 374,
+      "end_time": 375,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f170e29a-bf2c-4c98-8ae1-67814082a6fe"
+    },
+    {
+      "start_time": 375,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'd like to hear from you about the community itself. What are some things some of the things that\nhave changed in this community during the last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c1b88ede-3395-4559-908a-a0a7fb2e0370"
+    },
+    {
+      "start_time": 385,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mm, during the last few decades, it's grown, the community has gotten bigger, there's more houses. I\nthink because we're in a border city, it's easy to say that, uh, getting across going across the border\nand getting back across the border has become a little more difficult ever since 911. Just the border\nrestrictions have become more difficult. So it's more time consuming. Uh, 20 years ago, the border\nused to be easy to get to [COUNTRY] and easy to get back. It just takes more time now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "09aa2fd2-a7d4-413b-a70e-145b3854e287"
+    },
+    {
+      "start_time": 416,
+      "end_time": 419,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, is this a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4bd07f95-f55e-44a6-a43b-94075364ea45"
+    },
+    {
+      "start_time": 419,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yes, I'd recommend it to everybody."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "93eb819e-21b1-4c61-a287-a1ee66c3344f"
+    },
+    {
+      "start_time": 421,
+      "end_time": 427,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was or is the best part about being a kid or a young person in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "220d5a32-b073-43d6-9b94-2b0bad432154"
+    },
+    {
+      "start_time": 427,
+      "end_time": 429,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I was neither so I really don't know."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "66252c3d-aa31-45cf-a4f4-d0f9f351db6e"
+    },
+    {
+      "start_time": 429,
+      "end_time": 434,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that the traditional way of life in this community is going away?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "cbdf62ba-e100-4e2f-9da4-d21a4fc39007"
+    },
+    {
+      "start_time": 434,
+      "end_time": 445,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not really, they have the community keeps their their traditions going with Charro Days and certain\ncelebrations that go back so the heritage is not forgotten"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e4055fe6-68a4-4789-9ade-685d43112b58"
+    },
+    {
+      "start_time": 445,
+      "end_time": 447,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5d1fb666-c476-4c7d-be84-85a9971ad1d9"
+    },
+    {
+      "start_time": 447,
+      "end_time": 448,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dallas Cowboys."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "0777d39f-71ef-414e-8187-8bad528e877c"
+    },
+    {
+      "start_time": 448,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How have they been doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0f2be7d5-5569-442e-acf3-ed926d7c9a49"
+    },
+    {
+      "start_time": 450,
+      "end_time": 457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They suck."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b5d47826-e382-4601-a8e8-7990c36b4227"
+    },
+    {
+      "start_time": 457,
+      "end_time": 457,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHING]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "eb229d3b-489e-435d-80d8-a8ae79ed7402"
+    },
+    {
+      "start_time": 457,
+      "end_time": 461,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What? [CONFUSED]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "694b8189-8bf5-452c-b24f-8edc1d121044"
+    },
+    {
+      "start_time": 461,
+      "end_time": 464,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have to do chores when you were younger?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7ac83a18-5f77-466d-903b-c37cf3174e6b"
+    },
+    {
+      "start_time": 464,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c7a9671c-ba32-4752-b876-32241b15636e"
+    },
+    {
+      "start_time": 465,
+      "end_time": 467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the worst one?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "ca7b143a-d2bf-4a11-bad1-890ce757d511"
+    },
+    {
+      "start_time": 467,
+      "end_time": 470,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably taking out the garbage."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e05cafe6-e65a-476d-90f5-d429492b1a69"
+    },
+    {
+      "start_time": 470,
+      "end_time": 473,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the chore you didn't mind so much?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7963344d-5001-4e02-b138-02c69df30bd7"
+    },
+    {
+      "start_time": 473,
+      "end_time": 474,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Washing the car"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "eec1803d-e56d-48ac-8753-663d7ee6e8d5"
+    },
+    {
+      "start_time": 474,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore but not really?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "5d30d2d0-ab06-4de3-9a32-7b9237b7417c"
+    },
+    {
+      "start_time": 477,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, for sure. I never remember it's my teeth. And I forgot to bathe."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e291d071-e83a-4f80-b7b4-90d39aef4225"
+    },
+    {
+      "start_time": 482,
+      "end_time": 491,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LAUGHTER] Some people think that it's hard for some people think that it's hard for boys and girls to\nbe friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c785ab58-f566-4dcd-a510-2dca33338b2d"
+    },
+    {
+      "start_time": 491,
+      "end_time": 495,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. Boys and girls can be friends. It's easy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3ab743e0-7cf4-4194-95f5-c876cb8b5b30"
+    },
+    {
+      "start_time": 495,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about another person thinking the other person was not near you? But then\nturned around and saw the person was standing right next to you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fab362a2-a17c-420b-870f-06657af222bb"
+    },
+    {
+      "start_time": 504,
+      "end_time": 504,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4de4a446-ab43-4a20-9c70-b1f9c11320fd"
+    },
+    {
+      "start_time": 504,
+      "end_time": 507,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about that? What happened?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "ca240d35-fdae-4006-acca-9e4a7f5cd159"
+    },
+    {
+      "start_time": 507,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm embarrassed. I don't want to tell you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5eeb2536-234a-4652-abc8-b35ed01dff0e"
+    },
+    {
+      "start_time": 512,
+      "end_time": 516,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of people think of the 1990s as a golden decade of pop music. Do you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4e33e3b7-e26c-4aa9-bf9d-a023e88fae99"
+    },
+    {
+      "start_time": 516,
+      "end_time": 520,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. The Golden Age was the 80s."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6871e27a-15cc-4bf5-927f-ca4ac3b2f2a7"
+    },
+    {
+      "start_time": 520,
+      "end_time": 523,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the best decade and pop and use of music and why?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b614e4d1-7fb1-4d0d-bf7f-2fe927580f3d"
+    },
+    {
+      "start_time": 523,
+      "end_time": 535,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The 1980s. They rocked AC DC Ted Nugent, Judas Priest. That's where all your music came from."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2169ec18-dc9b-40c3-b568-73bcb6de6e7a"
+    },
+    {
+      "start_time": 535,
+      "end_time": 578,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much for your answers. I really appreciate you taking the time to talk with me. If you have\nthe time. I just have one last request for you. Before we conclude our interview. One of the over arching\nresearch questions through the home to Texas program is about linguistic changes in Texas. As part of\nthis project, a linguistic researcher is asking that interview participants read a brief passage, which\nshould only take about a couple of minutes. It is a short made up story about life in Texas that was\ncreated in the 1980s. And since then, linguistic researchers have recorded a few 100 Texans reading it.\nThey use these recordings as samples of people standard way of speaking as they try to track how\nspeech in Texas varies and changes over time. Would you be willing to read a brief passage out loud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "904d1a1f-0280-4a3a-a81e-0e87d387fb74"
+    },
+    {
+      "start_time": 578,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, ma'm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3344b8d9-19b7-4006-ba8d-94bc827238ea"
+    },
+    {
+      "start_time": 580,
+      "end_time": 594,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great. Thank you so much. Thank you for contributing your voice. And thank you so much for taking the\ntime to share your experiences with me. I really appreciate your time and generosity. If you don't have\nany other questions or comments. I'll go ahead and stop the recording now"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a71ff98e-8b95-4ac6-b92e-c66c1a2ced63"
+    }
+  ],
   "set": "Default",
   "event_id": "e21e6c3a-9b3c-4dc3-9dbe-2d4c711a3bc9",
   "source_id": "27291c99-a6cc-4779-9311-3c75679b8ee4"
