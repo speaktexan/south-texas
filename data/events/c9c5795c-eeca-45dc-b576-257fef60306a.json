@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "579a16dd-686b-4697-9a21-9e116aa8f756": {
+      "label": "Language_Donna_AR_07192024",
+      "is_offline": false,
+      "file_url": "https://ia800808.us.archive.org/1/items/ar-07192024/AR_07192024.m4a",
+      "duration": 943,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Donna_AR_07192024",
+  "created_at": "2025-02-13T16:33:49.023Z",
+  "created_by": "JennSmith26",
+  "updated_at": "2025-02-13T16:33:49.023Z",
+  "updated_by": "JennSmith26"
+}
