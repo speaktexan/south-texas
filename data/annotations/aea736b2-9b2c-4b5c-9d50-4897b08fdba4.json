@@ -1,5 +1,1413 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, this is [INTERVIEWER]. Today is June 28 2024. I am here in [Community Name] for an interview\nwith our community member. Before we begin, I like to get a verbal consent for the form that we went\nover. Could you please say I consent to being interviewed and are recorded for the study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "71100c1b-cc20-46bc-8065-10c1159e5b6f"
+    },
+    {
+      "start_time": 18,
+      "end_time": 21,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consider being interviewed and I'll be recorded for the study."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "35f63097-5a11-41d3-a2d6-d1f67adf5377"
+    },
+    {
+      "start_time": 21,
+      "end_time": 26,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get started, can you tell me about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c84f5305-15d7-4394-b14b-469c66cc2e72"
+    },
+    {
+      "start_time": 26,
+      "end_time": 34,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was born here and I've been here for all my life. I've seen this beautiful community and the city grow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "eecd11ff-2346-4dbd-891f-1e827990e92b"
+    },
+    {
+      "start_time": 34,
+      "end_time": 36,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me a bit more about this community? How would you describe it to someone who doesn't live here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "3334bddc-fb68-4628-900a-da6cd126e50c"
+    },
+    {
+      "start_time": 36,
+      "end_time": 76,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[Community Name] is a vibrant community. You're right on the border of Mexico. It offers a unique blend of American and Mexican\ncultures. It has beautiful historic sites like the Palo Alto Battlefield, and the old downtown area, which\ngives you a glimpse into his past history. The weather's pretty warm year round perfect if you low\nsunshine and being close to the coast. You'll find amazing Tex Mex food everywhere and some of the\nbest tacos and talames you'll you've ever tasted. Plusit's just a short drive to South Padre Island and a\nfantastic spot for beaches and outdoor fun."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "829ef6e6-2367-4ba0-95e9-c727adb9de93"
+    },
+    {
+      "start_time": 76,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think this community has changed throughout your time living here?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "22e333aa-7911-4bf2-ab22-d6ef8831c337"
+    },
+    {
+      "start_time": 80,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The community has seen a lot of positive changes over the years, it's been a real push for re like\nrevamping the downtown area. So now there are more cool spots to eat, shop and hang out. Education\nhas also improved and new schools and programs helping kids to get better opportunities. Space X\nsetup nearby which has brought new jobs and a sense of excitement about the future. Plus there's,\nstronger focus on preserving the natural beauty of the area like the wildlife refuges and parks, making it\na nicer place to live and visit."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "90f73642-ee2d-4795-bf89-9e6b9d669280"
+    },
+    {
+      "start_time": 117,
+      "end_time": 121,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How would you...what would you say are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "16c5e30e-8224-4fca-8c75-74e4243c22ca"
+    },
+    {
+      "start_time": 121,
+      "end_time": 168,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The community in Brownsville has some of the greatest strengths that I've seen it incredibly, is diverse\nwith a rich blend of cultures. That makes for amazing food, festivals, and traditions. People here are\nfriendly and tight knit, always ready lend a hand to neighbors. The local education system is improving\nwith new schools and programs helping kids receive a higher education. The natural surroundings like\nRio Grande River and nearby bi--. Beaches offer lots of outdoor [chuckels] activities and beautiful\nscenery. Plus the SpaceX is an area there's a growing excitement and innovation and new\nopportunities to [footsteps in the background]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5c2fb984-1381-4dcc-b694-8e7d0eec75a1"
+    },
+    {
+      "start_time": 168,
+      "end_time": 171,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are some weaknesses of your community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fddfec1c-2409-4591-a45d-0cf55df69573"
+    },
+    {
+      "start_time": 171,
+      "end_time": 216,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Despite its many strengths, [Community Name] does have weaknesses the city still struggles with high\nprob poverty rates, which can affect overall quality of life, and access to resources. Some parts of the\ncity need better infrastructure, like improved roads and public transportation. healthcare access can be\nlimited with not enough facilities to serve everyone efficiently. Education while improving still has room\nfor growth, to sometimes ensure all the students with the best opportunities. Lastly, being a border ci--\nborder city. [Community Name] sometimes faces unique challenges related to immigration and security."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "542abfe7-6ad7-4626-9cca-f22bb75fdf70"
+    },
+    {
+      "start_time": 216,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me about the roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b02c561b-6bec-4c33-b233-81b2a33b5082"
+    },
+    {
+      "start_time": 220,
+      "end_time": 234,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Growing up in this community has given me the great privilege to make the most out of beau--, her\nbeautiful relationships with so many friends, family and community-- community members."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a7a7c2b2-f3ce-4396-8b1b-e41ffcd4796c"
+    },
+    {
+      "start_time": 234,
+      "end_time": 235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fa790f10-5f6b-455e-a6d2-fc67734aa2dd"
+    },
+    {
+      "start_time": 235,
+      "end_time": 239,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am a happily second grade teacher."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "989d776b-78d2-405f-b225-2f6d08ec1ef1"
+    },
+    {
+      "start_time": 239,
+      "end_time": 244,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think your connections to the community influenced your work as a teacher?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "ac441e01-bd6d-4629-961e-e71ae992294c"
+    },
+    {
+      "start_time": 244,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It influences me greatly. I've taught some of my closest friends' kids and even grandkids. This job has\nalso helped me create more relationships with my coworkers, and many of my old students who are\nnow grown up."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b7c436c1-f866-4008-a6a2-eabcb0e10e6d"
+    },
+    {
+      "start_time": 259,
+      "end_time": 266,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to talk more about your job as a teacher. Can you tell me about how you're you got into this\nrole?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "50387bf5-91f3-4f6d-8926-6da4f2c8b47f"
+    },
+    {
+      "start_time": 266,
+      "end_time": 273,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My mom was a teacher and she inherited her love of teaching and pass it on to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "d1238339-73a6-44d9-b69a-0f36cefdcc10"
+    },
+    {
+      "start_time": 273,
+      "end_time": 276,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does a typical day look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "35c51456-845c-4304-a12f-c7f4f197af6f"
+    },
+    {
+      "start_time": 276,
+      "end_time": 293,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Usually I get up early and get my classroom ready. And my lesson plans for the kids and it goes on\nfrom there. I've been teaching for 40 years now no currently working on retiring for a few years."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7a9e537b-1cb2-4b0a-8276-482f4e2cface"
+    },
+    {
+      "start_time": 293,
+      "end_time": 297,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects what does it mean to be a teacher in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "aef6efe3-1609-495e-80c6-ada3080bad79"
+    },
+    {
+      "start_time": 297,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think teachers are essential not only in [Community Name], but everywhere. If there weren't any\nteachers, there wouldn't be doctors, lawyers, accountants, scientist, judges, or any other career\npathways because that's the foundation of education."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "35532f21-c20e-45e0-af1c-9d67a06b346b"
+    },
+    {
+      "start_time": 316,
+      "end_time": 321,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of your job bring you the most joy satisfication satisfication?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a70c7732-5bde-4f65-9566-f4b7adf32100"
+    },
+    {
+      "start_time": 321,
+      "end_time": 351,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, I love my job, the joy and fulfillment that I get from working with young children. It is re--\nrewarding to see my students learn and grow, getting to celebrate the small victories and the\nmilestones in their education. The creativity involved in planning, and engaging lessons. And these\nactivities is also a source of satisfaction for me. Building strong relationships with students, parents and\ncolleagues adds to the sense of community and support."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "681eb8e3-b3e8-4d4c-a2a8-beeb16d01011"
+    },
+    {
+      "start_time": 351,
+      "end_time": 354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the biggest challenges you face in your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a98a9275-4fce-41db-b743-02e4076b2cd1"
+    },
+    {
+      "start_time": 354,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "There are pros and cons to everything as much as I love and enjoy my job. It's not rainbows and\nsunshine all the time. Managing a classroom with diverse learning needs and behaviors requires\nconstant attention and different situations calls for different, um, methods of teaching and learning and\nin my case instruction, which can be overwhelming considering my classes often range from 20 to 25\nkids. Limiting resources and supplies can also be a struggle. As teachers we often have to be creative\nwith materials or spent our own money. Balancing the demands of standardized testing and curriculum\nrequirements with the need to make fun learning and engaging can be tough. Administrative tasks and\npaperwork add to the workload taking away from the direct learning and direct teaching to our students.\nLastly, maintaining effective communication with parents and dealing with varying levels of support can\nbe challenging, but it is crucial for students s-- success."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "fabe00dd-6a4b-42db-9c73-7e93ff19fba4"
+    },
+    {
+      "start_time": 420,
+      "end_time": 450,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now let's talk more about your experience as a resident of this community. first this set of. For this first\nset of questions I'll read a statement to you and I'd like you to indicate the extent of the agreement with\neach one. I'll give. I'll have you give your answer on a scale of one to four where one is completely\ndisagree, two is somewhat disagree, three is somewhat agree, and four is completely agree. If you'd\nlike to comment on any of the statements please feel free to. The first phrase is: I consider myself to be\nan American. What would you say?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "863fb3ba-2225-4a0a-b041-ea5f8a342bb1"
+    },
+    {
+      "start_time": 450,
+      "end_time": 453,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four, completely agree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "9b0d4db0-653f-49ea-812b-930d76c48389"
+    },
+    {
+      "start_time": 453,
+      "end_time": 463,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale. How would you rate the following statement : I consider myself to be a Texan?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "67e0c728-2721-47d7-9bc1-2356b5267792"
+    },
+    {
+      "start_time": 463,
+      "end_time": 465,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "79cf03be-5b42-48b5-91f0-793a46c7ee3a"
+    },
+    {
+      "start_time": 465,
+      "end_time": 479,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the followi-- which of the following three statements do you agree with the strongest? I'm\nAmerican first and Texas second, I am Texan first and American second, or being Texan and American\nequally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "1e293886-b301-4f09-ba7f-24240154ebb6"
+    },
+    {
+      "start_time": 479,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three being Texan American are equally important to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "24d1418e-a410-4013-a91a-1a5144fd4051"
+    },
+    {
+      "start_time": 482,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is to be a true Texan you must know how to speak English. What would you rate this\none using the same scale we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "63e75f1c-d05f-4f63-a5e5-99f861e6d0da"
+    },
+    {
+      "start_time": 490,
+      "end_time": 497,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One completely disagree"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3185c09d-6271-45cd-931c-1f325d8712c3"
+    },
+    {
+      "start_time": 497,
+      "end_time": 503,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about to be a true Texan you must speak Spanish?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "c55cc7f2-bd97-4ba8-b1ca-76babde73681"
+    },
+    {
+      "start_time": 503,
+      "end_time": 505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One completely disagree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6c57f152-925e-412f-8489-cda56b3f41c4"
+    },
+    {
+      "start_time": 505,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is in my community. You can do everything you want and get everything you need\neven when you don't speak English."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6ae89100-8a7b-43fe-82e9-42366d8cd8c2"
+    },
+    {
+      "start_time": 514,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Two somewhat disagree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2b190830-f0c7-443c-8e0e-8d4be22ef19a"
+    },
+    {
+      "start_time": 518,
+      "end_time": 526,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in my community life has been pretty stable over the last 40 years, things haven't changed\nmuch."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7d7c7a31-87b0-43c2-ab47-697b75555cf5"
+    },
+    {
+      "start_time": 526,
+      "end_time": 528,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three somewhat agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8fa09090-b6a0-45ec-940b-97a46291cb4a"
+    },
+    {
+      "start_time": 528,
+      "end_time": 539,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to hear from you about the community itself. What are some of the things I've changed in\nthis community during the last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "7e407def-2188-4992-b8e5-5a93bdc4fdb7"
+    },
+    {
+      "start_time": 539,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "the downtown area has undergone a lot of [pause] it has gone through many changes because they're\ntrying to fix all the structures there. With new businesses and restaurants and cultural spots, making it a\nmore vibrant place to visit and live. The presence of SpaceX has brought new jobs in a wave of\nexcitement about technology and space exploration. There's also been a an increase on focus in\neducation was improvements in schools and new programs aimed at enhancing student opportunities,\nefforts to preserve natural areas and promote ecotourism has grown as well, emphasizing the city's\nunique environment. Additionally, infrastructure improvements like better roads, public spaces that have\ncontribute to overall quality of life in the city."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f951c00e-b6e6-45d3-8db0-3add49fe2191"
+    },
+    {
+      "start_time": 598,
+      "end_time": 600,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, is this a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "d68fdfe1-ab47-49a0-a32e-e600ade3a113"
+    },
+    {
+      "start_time": 600,
+      "end_time": 618,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes! So many people talk wonders about big cities like Houston, Dallas and Austin. But there is no\nplace like Brownsville. It's very affordable, beautiful scenic places like the zoom the beach, and the\ncommunity is like no other."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "deecfee6-f51e-4f21-b2fc-07f3e7e629ac"
+    },
+    {
+      "start_time": 618,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was or is the best part about being a kid or young person in this community?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0bffb0c0-74b3-498f-bb1c-2df5d911a9eb"
+    },
+    {
+      "start_time": 623,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's the best of both worlds. Growing up 15 minutes from the border was a great experience living the\nAmerican dream, but also getting the experience of the land where my ancestors grew up in."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "77afcb6b-7a70-410e-b96d-595a559c9bcf"
+    },
+    {
+      "start_time": 636,
+      "end_time": 640,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that the traditional way of life in this community is going-"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "d72d29c6-aeb8-44d2-8ca3-639e6559f8c5"
+    },
+    {
+      "start_time": 640,
+      "end_time": 666,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[pause] No, I feel that we still celebrate the same type of traditions like as every Mexican household\ndoes. But some traditions also do change, which that is all right,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3d482ce3-5a8c-42a3-b11f-c0993c2ef21b"
+    },
+    {
+      "start_time": 666,
+      "end_time": 673,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is your favorite sports team? How are they-- the team? Have they been doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a6c92be0-538b-4686-b65d-f64159c648ea"
+    },
+    {
+      "start_time": 673,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "My favorite sports team is Antonio Spurs. Because their awesome and I love basketball."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "637c3615-92e2-47a3-97aa-4fc6fed4d9ea"
+    },
+    {
+      "start_time": 683,
+      "end_time": 691,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you have to do chores when you were younger? Or now? What was the worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e5a56968-f6e4-4708-8d4b-354a0f639eaa"
+    },
+    {
+      "start_time": 691,
+      "end_time": 705,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I usually had two which was to fold the laundry and take out the trash. The worst chore? Although none\nof them were that bad. [chuckles] If I had to choose, it would have to be taking out the trash."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3ebf7dba-d44e-4e6c-a5f2-e1c2c29bb724"
+    },
+    {
+      "start_time": 705,
+      "end_time": 709,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore but not really doing it?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "30d6a96a-f176-4dd8-8a39-62594af37a18"
+    },
+    {
+      "start_time": 709,
+      "end_time": 716,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No, I never really minded doing either of them. So I would do them most of the time."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "bab815d8-7ac2-4552-80e5-ea99236f0653"
+    },
+    {
+      "start_time": 716,
+      "end_time": 722,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think that it's hard for boys and girls to be friends. What do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a1b46f70-84f2-470f-a98e-7a2ee914f651"
+    },
+    {
+      "start_time": 722,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not all human? None at all. We are all humans why should our gender determine whether we can be\nfriends or not."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e5431d8e-6d76-4f99-b224-da91fd7d9591"
+    },
+    {
+      "start_time": 732,
+      "end_time": 744,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about a person thinking the other person was not near you? But then turned\naround and saw that person was standing right next to you? Could you tell me about what happened? If\nyes,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9456aa0d-f582-4b5b-ab0b-4939e0bd56d7"
+    },
+    {
+      "start_time": 744,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would at time steal some of my older siblings stories and tell them to my friends. And one I did it while\nI had friends over my house and didn't realize my sister was in the next room. She was extremely cool\nwith it, and just laughed it off. But ever since then, [chuckles] I decided to just say true to my stories."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6ba724f3-4262-4f0f-90e6-c50bc68e0b4e"
+    },
+    {
+      "start_time": 766,
+      "end_time": 771,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of people think of the 1990s as a golden decade of pop music. Do you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8a3119d9-4650-4aa6-a477-211e8faaf799"
+    },
+    {
+      "start_time": 771,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, Yes, I would say either the 80s and the 90s. Were both great decades of music that changed the\nface of music forever."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f980d300-42bc-4b0c-af2d-ed3a401b3a36"
+    },
+    {
+      "start_time": 781,
+      "end_time": 828,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much for your answers. I really appreciate you taking the time to talk with me. If you have\nthe time. I just have one last request for you before we conclude our interview. What one of the\noverreaching research questions through the home of Texas program is about linguistic changes in\nTexas. As part of this project, a linguistic researcher is asking that we interview participants and reading\na brief passage which should only take a couple of minutes. It's a short made up story about life in\nTexas that was created in the 1980s. And since then, linguistic researchers have recorded a few\n100,000 Texans reading it. They use these recordings as samples of people standard way of speaking\nas they tried to track how speech in Texas varies and changes over time. Will you be willing to read a\nbrief passage aloud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "24d04b50-81d0-4366-b6c2-399131e5833d"
+    },
+    {
+      "start_time": 828,
+      "end_time": 829,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "63b9a2ed-98e7-4fda-be82-28b9ea18e45f"
+    },
+    {
+      "start_time": 829,
+      "end_time": 836,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Great. Thank you so much. Whenever you're ready, could you please read this page out loud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8e548f18-056f-48c4-aba0-b1de99906111"
+    },
+    {
+      "start_time": 836,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've lived in Texas all my life. I was born in Titus County. And when I was five, we moved to a farm near\nWhite House, which is south east of Tyler. I lived growing up in the coun--country where my chores\nwere done. I'd ride my horse, climb trees or hike down to the creek to fish or swim. One time we tied a\nrope to a limb of the cypress tree. And we'd swing out wide or in the swimming hole and dropped into\nthe water. i'd pretend to be Tarzan swinging on a vine. In the spring I'd fly kites and on summer nights\nwe catch fireflies but we call them lightning bugs. Once in a while we'd have fights with corn cobs or\npine cones. In the winter we build a fire on the fireplace and pop popcorn and roast peanuts and\npecans. I guess I was a life wire. a long time I go home every chance I got. Mama would always cook\nmy favorite foods. fried okra helping John, that's ri-- that's rice and Black Eyed Peas, and pecan pie.\nWe had lots of good times but going home is not the same now, after daddy died, Mama sold the farm\nand moved to Tyler. I'd rather be living on a farm right now instead of here in the city. But my wife and\nkids don't understand. When I gripe about city life, and talk about moving to the country. My eldest child\nsays, Daddy, that's crazy. I just die if I had to live on a farm. I'd almost cry the first time she said that. I\nknow Texas is changing. But I try to make sure we don't lose touch with our roots. While we may live in\na city, I want my kids to have a good feeling for the land. Have a sense of place and take pride in being\nTexan. If they lose our ties to land, the price of progress is too high."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "fb979373-44d8-4796-a71a-badab4ae53e4"
+    },
+    {
+      "start_time": 967,
+      "end_time": 979,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for contributing your voice to the collection. And thank you for taking the time to share your\nexperiences with me. I really appreciate your time and generosity. If you don't have any other questions\nor comments. I'll go ahead and stop the recording now."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "45fe110d-1b1b-4523-85f9-116b23cd9b89"
+    }
+  ],
   "set": "Default",
   "event_id": "078c295c-ad94-4db2-8300-29bcb3ce1351",
   "source_id": "681f01cb-8ec8-4bb3-a541-eb16d4134aa1"
