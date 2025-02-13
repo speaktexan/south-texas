@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "016d9a0a-afe4-48ca-9793-4016dab9672c": {
+      "label": "Language_Brownsville_KJ_07242024",
+      "is_offline": false,
+      "file_url": "https://ia903401.us.archive.org/19/items/kj-07242024/KJ_07242024.m4a",
+      "duration": 1955,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Brownsville_KJ_07242024",
+  "created_at": "2025-02-13T15:11:01.877Z",
+  "created_by": "JennSmith26",
+  "updated_at": "2025-02-13T15:11:01.877Z",
+  "updated_by": "JennSmith26"
+}
