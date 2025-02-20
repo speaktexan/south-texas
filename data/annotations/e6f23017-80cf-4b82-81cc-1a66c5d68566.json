@@ -1,5 +1,1665 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hi, this is [INTERVIEWER NAME]. Today is June 14, and I'm here in [COMMUNITY NAME], Texas for an interview with one of our community members. Before we begin, I'd like to give verbal consent for the form that we went over. Could you please say \"I consent to being interviewed and audio recorded for the study?\" "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "08178651-bce2-4558-a3bc-4a7dad9936d5"
+    },
+    {
+      "start_time": 20,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I do [LAUGHS]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6ef8ee0c-42c4-486e-aa57-62db666ab721"
+    },
+    {
+      "start_time": 22,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you. So to get started, can you tell me how you came to live in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e47943c2-9b00-4958-9b7e-3f54da18a9f6"
+    },
+    {
+      "start_time": 29,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In this [COMMUNITY NAME]? Okay. I um, I moved to [UPPER GULF COAST REGION COMMUNITY NAME] to go to college. And then I came back when I retired, and I was looking for a retirement community and I found one. But since I had, since I was a widow, I had lost my husband the previous year, the one that I found for before, it was mostly couples, and I was uncomfortable. So I sold it, and then I looked for something that was not so couple-oriented, and this was the one that I found [CHUCKLES].  It was just I was very, I was still very much in the grieving process. And I guess that's what determined my, my selection. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c5346c22-69bc-432e-b2cf-bffbf08a51e7"
+    },
+    {
+      "start_time": 78,
+      "end_time": 85,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And can you tell me more about how you came to live in [COMMUNITY NAME]? And how would you describe it to someone who doesn't live here? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "941a3de0-651c-46f3-9d0a-bdaf9994fd87"
+    },
+    {
+      "start_time": 85,
+      "end_time": 134,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, because I was born and raised here. And I went, my first two years after graduation from high school, my first two years, I went to [TEXAS UNIVERSITY NAME], which then was a community college. And I wanted to be a nurse and there was no programs, any closer than I think there was one in [DIFFERENT SOUTH TEXAS REGION COMMUNITY] with [HOSPITAL NAME] hospital. And then I went to, picked [UPPER GULF COAST REGION COMMUNITY] because then, um, [STATE ORGANIZATION NAME] assisted me with a [SIGHS] um, small scholarship so that I could promise them that I was coming back and work here. Well, I did not keep my word. I stayed in [UPPER GULF COAST REGION COMMUNITY] for 40 years, and then I came back. But I did come back after 40 years [LAUGHS]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0e2737dd-63dd-4a3e-8219-66ac4970afe7"
+    },
+    {
+      "start_time": 134,
+      "end_time": 141,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's good. Um, and how do you, how would you think that [COMMUNITY NAME] has changed over the time that you've been here? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ca7080e1-c926-4e9f-864c-18e081cc7703"
+    },
+    {
+      "start_time": 141,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh it is changed a lot. It used to be just a very small. In fact, this area where I'm living now, it used to be an orchard. And um, citrus was the main and it still is the main resource here. And um, the population has doubled since I left. If not tripled, I don't think we had more than 10 or 20,000, I were up to 85,000. [SIGHS] So it has, it has developed a lot more. We have had more stores come down, restaurants. Um. In fact, our our own hospital has enlarged we there was a [COMMUNITY HOSPITAL NAME] when I left, and it moved to place that it is now and um, to show how small it was. I think that that building is now used for administration for the school offices, administration for the school district. So it really went it just flourished, I think, which is good. And the um, businesses used to be every everybody was involved around the [COMMUNTIY PRODUCE EVENT] and citrus farming. And so now there's a lot more businesses and things that people can get into. [FAN BUZZES IN THE BACKGROUND] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "40c3acc8-8943-40f2-8927-31722ba4332a"
+    },
+    {
+      "start_time": 230,
+      "end_time": 236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, um, what are what would you say are the strengths of the community like of the [DIFFERENT SOUTH TEXAS REGION COMMUNITY NAME]  in general or [COMMUNITY NAME]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a326db6a-31a7-4487-8552-be39ef87e3a3"
+    },
+    {
+      "start_time": 236,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think we still retain the uh um, uh family unity. Uh, We still um retain a lot of the a lot of the residents still are very close to their church, their churches. And two of the big churches that are maybe a little bit more, but I only remember when I was growing up there was the Catholic Church and there was the Methodist Church and the Presbyterian Church, but they were small little Baptist church, but those were the main big ones. And uh we still retain that core. You know, so I think that, that it's it's still a very religious oriented community, I think, which I love. [FAN BUZZES IN THE BACKGROUND]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7ed15f9f-4ceb-48f7-a179-d3898396b70d"
+    },
+    {
+      "start_time": 283,
+      "end_time": 289,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[CLEARS THROAT] That is nice. And then what would you say? Seeing that, would you say are the weaknesses of the community?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5f53b6d7-5535-4759-ae9d-4fe9d7dd1c03"
+    },
+    {
+      "start_time": 289,
+      "end_time": 290,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you mean?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1c8eb5e4-c952-4652-a535-565f79a4f1ad"
+    },
+    {
+      "start_time": 290,
+      "end_time": 301,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like any weaknesses that you see like any um I guess, for example, a weakness would be there's not enough infrastructure or the people are different.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5936b5f4-4181-4a0b-82ba-4381bb77e512"
+    },
+    {
+      "start_time": 301,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well there is still a lot of poverty in the [COMMUNITY NAME], I think that, um, it started with the people coming from Mexico and being very uneducated. When I was growing up, there was a lot of discrimination. It was mostly the whites and the Mexicans. And we were very, the Mexicans were very discriminated just as much as you saw the Blacks in the north. In fact, when I joined the brownies when I was a little girl, and I remember coming home because, crying, because they they were going to, we had a pool, community swimming pool, and the brownies were being taken to go swimming. And of course, there were two little girls from our little parochial school that were me and another friend, my best friend, and we were not allowed to go into the pool because we were Mexicans. And I remember coming home and crying, you know. It was hard for my mother, how do you [DEEP SIGH]. But there was a lot of discrimination, even, even within ,the, my Catholic faith. There was [FIRST COMMUNITY CHURCH NAME] which, is, was in the south part of [COMMUNITY NAME], and in the north side was a [SECOND COMMUNITY CHURCH NAME]. All and [INAUDIBLE] school associate, parochial school associated with each of them. And what was so funny is that the nuns that taught [SECOND COMMUNITY CHURCH NAME] were living in the convent because they didn't have a convent at [SECOND COMMUNITY CHURCH], they were living in the convent for [FIRST COMMUNITY CHURCH NAME]. But yet, it was like all of the Anglos went into [FIRST COMMUNITY CHURCH NAME] schools and we went to [SECOND COMMUNITY CHURCH NAME]. So even in our own faith, there was discrimination.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b44ee36d-8560-48f9-9f48-c62e18d1938d"
+    },
+    {
+      "start_time": 416,
+      "end_time": 417,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what year was it like?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4877160f-cd57-4c9b-b0d7-c7e6a79b0a56"
+    },
+    {
+      "start_time": 417,
+      "end_time": 420,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I started Catholic school in 1944.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "eaddf235-03d8-4e3b-8147-697475b761c2"
+    },
+    {
+      "start_time": 420,
+      "end_time": 422,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay so like 40s and 50s. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "890eb043-ea62-4f96-a72f-e8fd0dc8392a"
+    },
+    {
+      "start_time": 422,
+      "end_time": 423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[AGREES VERBALLY] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "40a1c5c3-3e75-4195-9d10-a0be6510db67"
+    },
+    {
+      "start_time": 423,
+      "end_time": 433,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so now a little change we are going to talk about you in general. So what is the role, what are the roles or relationships that you have in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a1145530-1e50-4ef3-bd13-ca95a014d97d"
+    },
+    {
+      "start_time": 433,
+      "end_time": 490,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I am very active with my church still. And I, um, used to participate in in distribution as a Eucharistic minister. Now I just, because they remodeled my church and, and the altar is so much higher and there's no nothing to hold on to. And I'm afraid to go up the the altar without, something to hold on, so I don't do that very much anymore. Unless there's nobody else there at the mass that I'm going to. But I do still, um, I'm still a Eucharistic minister and I take the Eucharist to the homes of homebound people. I pray funeral rosaries that, um, at the funeral homes all around here. And um, with my family, that's basically which I think I'm more active than most people. [CHUCKLES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3f9aebd9-4f3b-4520-bfdb-8c67294ca4e7"
+    },
+    {
+      "start_time": 490,
+      "end_time": 492,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And what do you do for work? Or is that what you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "81a2b05a-aac3-4bdc-ba02-ea29ed63dafb"
+    },
+    {
+      "start_time": 492,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, I was a trained to be a registered nurse. And I worked at that profession until I retired and came down here and [PAUSES] so and basically from early 60s to 95 or 96 when I retired. And now I don't do that of course. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "31997966-13b5-4f4f-a475-9a6ea678e5a0"
+    },
+    {
+      "start_time": 515,
+      "end_time": 525,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay [CLEARS THROAT], and how do you think like the influence from like the [COMMUNITY NAME] has influenced your work as a registered nurse?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "523f1e29-4e1d-472e-8233-4cb460a4a918"
+    },
+    {
+      "start_time": 525,
+      "end_time": 619,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think it has. I see the need here, and I saw the need before because of financial resources. I, I work most of my, most of my professional working was in [UPPER GULF COAST REGION COMMUNITY NAME] with with the indigene [UPPER GULF COAST REGION HOSPITAL NAME]. And it was, it was so nice to see that people did not go in need of medical attention because there was a resource through the hospital being a, um, county hospital. And so they got all their their monies, to, to be able to take care of this, but and of course we had two nursing, I mean to medical schools. We had [TEXAS UNIVERSITY NAME] was had the residents training there, and [SECOND TEXAS UNIVERSITY NAME] had theirs. So this, this tool will actually would have we had three hospitals they were [DOOR OPENS IN BACKGROUND], they were taken care of by students from this two schools. And then when I moved here and I see that there is no help for this indigent people. I think there is a small, I've never researched it, but I think there is a small resource available through the county, that they, um, pay the hospital for taking care of the indigent. But nothing is organized in this as we have in big cities like [NORTH TEXAS REGION COMMUNITY NAME] and [UPPER GULF COAST REGION COMMUNITY NAME]. And I wish we could get something started like that. If I were younger, I would probably work on that. [CHUCKLES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f9bc472b-0049-48d4-bbd0-446c62d7ea81"
+    },
+    {
+      "start_time": 619,
+      "end_time": 629,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[CHUCKLES] And just the last question about your job like, what was your, what aspects of your job brought you the most joy or satisfaction? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c7f8fe97-8591-4836-bfe9-d5035925bc3b"
+    },
+    {
+      "start_time": 629,
+      "end_time": 631,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is the [INAUDIBLE]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ab6dc90a-9e47-4691-b7a2-a23b1b732465"
+    },
+    {
+      "start_time": 631,
+      "end_time": 637,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "About when you worked as a registered nurse? What brought you like happiness? What did you like about the job? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "800d4c8b-7935-4157-b60c-bb42853f05f1"
+    },
+    {
+      "start_time": 637,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, I, I just love my, I've always wanted to be a nurse. And so I, I, I worked with when I worked at when I was training at [UPPER GULF COAST REGION HOSPITAL NAME] I did my cli, my clinical training at [UPPER GULF COAST REGION HOSPITAL NAME] And I was like, they had two buildings, the building for the indigent and the building for the private patients. And I always did my clinical with the indigene, because I wanted to come home, and, and know how things were were run and done there. But fortunately, or unfortunately, a year after my graduation, I met my, my husband, and he was born and raised in [UPPER GULF COAST REGION COMMUNITY NAME]. So and he was working there, so we stayed in [UPPER GULF COAST REGION COMMUNITY NAME]. And I never fulfilled that dream because I didn't come back until I was retired [CHUCKLES]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6592a656-2f1f-40ec-a169-2f82d7032a83"
+    },
+    {
+      "start_time": 692,
+      "end_time": 727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I see. Um, so that was like the last bit of those kinds of questions. Now, these are the more specific research questions. Um, so for this set of questions, I'm going to read a statement to you, and you're going to indicate to the extent that you agree from a scale of one to four. So one \"I completely disagree\". Two, \"I somewhat disagree\". Three is \"somewhat agree\", and four is \"completely agree\". Um, so I'm gonna read the statements and you just say like one, two three, or four. So the [CLEARS THROAT] the first phrase is, I consider myself to be an American. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "d68a635f-b9e3-458c-9c80-56d81614f18c"
+    },
+    {
+      "start_time": 727,
+      "end_time": 730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "10f130a0-f98c-40a4-afe2-352e8d6b48c5"
+    },
+    {
+      "start_time": 730,
+      "end_time": 732,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consider myself to be a Texan. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9ed4ff72-ee95-4a7d-b0a8-c88346b5d805"
+    },
+    {
+      "start_time": 732,
+      "end_time": 735,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7e0ddaf8-7dfc-4e19-ad96-b158d410fe4b"
+    },
+    {
+      "start_time": 735,
+      "end_time": 753,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, which of these following three statements do you agree with most strongly? The first one is, I'm American first and Texan. Second. The second statement is, I am Texan first and American second. And the third one, being Texan and American are equally important to me. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "96e41f1d-3970-4465-b0b1-f246f12350dc"
+    },
+    {
+      "start_time": 753,
+      "end_time": 757,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The third one is fou- yes. [CHUCKLES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0327767e-be95-4647-8548-dc103b1486b2"
+    },
+    {
+      "start_time": 757,
+      "end_time": 766,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The, uh, the next one is, to be a true Texan, you must know how to speak English. What would you write this one using the same scale? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9c5cc757-8fa2-4b17-8875-0a19ad5849a4"
+    },
+    {
+      "start_time": 766,
+      "end_time": 768,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I think so. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "64ef0474-4a9e-4840-8dd3-24040c80444c"
+    },
+    {
+      "start_time": 768,
+      "end_time": 769,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But using one through four? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "36894383-fcf1-4985-8e93-d08ae40e29d0"
+    },
+    {
+      "start_time": 769,
+      "end_time": 772,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four. [DOOR OPENS IN BACKGROUND] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6448ef2e-2852-47e5-a908-278f2e2a1869"
+    },
+    {
+      "start_time": 772,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how about to be a true Texan, you must know how to speak Spanish? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "9c0af51b-97ac-4734-b7c5-d574c78f4e32"
+    },
+    {
+      "start_time": 776,
+      "end_time": 780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, no. I don't agree at all. [CHUCKLES]  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "2828ac4f-bcd5-4755-8e01-e1dc21b6ed21"
+    },
+    {
+      "start_time": 780,
+      "end_time": 781,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So one? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6c1b4546-d9d1-4978-8336-2ef925f447d3"
+    },
+    {
+      "start_time": 781,
+      "end_time": 783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "2d01c389-a68e-4743-ab17-7512474eb31f"
+    },
+    {
+      "start_time": 783,
+      "end_time": 795,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase, in my community, you can do everything you want and get everything you need, even when you don't speak English. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "045e1c33-9678-4cb7-940a-0c221779a42d"
+    },
+    {
+      "start_time": 795,
+      "end_time": 810,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmmm, in my community here, I would probably put that at uh, I wish there was uh, it was one to five, so I could say three [LAUGHS], middle of the road. [LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "54b141df-043f-403b-8a7e-307daaa1eff6"
+    },
+    {
+      "start_time": 810,
+      "end_time": 818,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then finally, in my community life, has been pretty stable over the last 40 years, things haven't changed much.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "46f70f1c-2069-468a-8510-17bb1ff6db1f"
+    },
+    {
+      "start_time": 818,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "02f1884f-9d11-48d3-85be-69ad028fd518"
+    },
+    {
+      "start_time": 820,
+      "end_time": 835,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. [DOOR OPENS IN BACKGROUND] Now, these are going to be, I would like to hear from you about the community itself. So another open ended question. What are some of the things that have changed in this community during the last few decades? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "248dba4d-978d-4a6d-a1ec-20a21bface93"
+    },
+    {
+      "start_time": 835,
+      "end_time": 850,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, business. Um, I think that probably education. And I would put medical third. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7d6b9169-879f-4cbb-8a6c-b6c960cb55b0"
+    },
+    {
+      "start_time": 850,
+      "end_time": 858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nice. Um, and overall, is this a good community to live in? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "8e300494-ec61-4a7b-995b-8706069d9eef"
+    },
+    {
+      "start_time": 858,
+      "end_time": 863,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "08369fa2-2b6f-42cc-b3cc-94643de84677"
+    },
+    {
+      "start_time": 863,
+      "end_time": 871,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh, [INAUDIBLE] of your childhood what was or is the best part about being a kid or a young person in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "102a7017-a09c-40d7-9d85-8d7bfd5af82c"
+    },
+    {
+      "start_time": 871,
+      "end_time": 927,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, it wasn't only the fact of living in this community, but maybe the time will, will will. My answer is dependent because the time that I was growing up, which was the 40s, it was very different than maybe a person that was born and raised here. And growing up in the 50s, our lives were completely different. You know, so going with mine, I think it was probably a, probably a two. Because there was so many handicaps in everything was [PAUSES] was leaning towards whether you you belong, whether you were Anglo, or whether you are Mexican. And that's what, now there's, hopefully I don't see it, but now I don't think that that's a problem anymore.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "cdbacb14-8764-47ea-8132-991e61a5ca4e"
+    },
+    {
+      "start_time": 927,
+      "end_time": 935,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. And do you feel that the traditional way of life in this community is going away?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "08b116f8-0bed-41d8-8b82-1630f68da23b"
+    },
+    {
+      "start_time": 935,
+      "end_time": 937,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "2c7c8e47-1815-418b-be6e-fbfd553119ec"
+    },
+    {
+      "start_time": 937,
+      "end_time": 942,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you think keeps things the same? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0428a4ab-d157-4d6f-8d23-8b3f59033fa9"
+    },
+    {
+      "start_time": 942,
+      "end_time": 945,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The people. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a2286b01-2739-4cc4-899a-3d34c230dc55"
+    },
+    {
+      "start_time": 945,
+      "end_time": 952,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, so this one's kind of unrelated. But what is your favorite sports team? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5f5e0c5e-8b12-4fae-ba9f-a3962a6ad283"
+    },
+    {
+      "start_time": 952,
+      "end_time": 956,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Of course the Houston Texans. [LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7daad2d0-d94e-4359-8589-bac746e9afa1"
+    },
+    {
+      "start_time": 956,
+      "end_time": 958,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you know how they've been doing lately? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "ff99cf2f-70e7-4c69-b2d3-0b10fd797b6c"
+    },
+    {
+      "start_time": 958,
+      "end_time": 1008,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Well, you know, right now we're not in really, in the uh, where. The Houston Texas are not doing as good maybe as other teams because they haven't been in the Super Bowl. But because [ICE MACHINE IN THE BACKGROUND] I [INAUDIBLE] When I grew up here, baseball was the number one team, everybody supported, and they even had a whatever they call a junior league for. And um, and my father was a big baseball fan, so of course, I was introduced to baseball first, and I still like the Astros and I still like baseball. But to me, I, my husband introduced me to football. And I grew up with the Oilers, and the, the Texans. Oilers than than Texas.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a73d0546-97ee-4f69-b324-afd939af217f"
+    },
+    {
+      "start_time": 1008,
+      "end_time": 1012,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, and did you have to do chores when you're younger?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0d6316c7-0e57-4fdc-8d98-acb9d53e1216"
+    },
+    {
+      "start_time": 1012,
+      "end_time": 1013,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do I have what? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "10a0f942-0332-4e11-ac57-f550677c08e4"
+    },
+    {
+      "start_time": 1013,
+      "end_time": 1016,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Chores to do? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "34328259-7749-4317-8503-5b1b4fab9f73"
+    },
+    {
+      "start_time": 1016,
+      "end_time": 1060,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Unfortunately, no. I was the baby of the family and I was treated as a baby and doted upon since I came along when my mother was middle aged, and she had grown children. So they all doted on me, and I never had any. And I remember wishing when my friends at school would say, \"I had to do the dishes last night\" , and I was going \"I never had to do anything like that\", you know. And then I came home and I paid [STUTTERS] My mother had a housekeeper pay the housekeeper quarters, so she would let me wash dishes. My mother was furious when she found out but I wanted to be able to go to school and say, \"Oh, I had to wash dishes last night.\" [LAUGHS] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0c30c204-af19-45da-b1ff-81206c91ce5c"
+    },
+    {
+      "start_time": 1060,
+      "end_time": 1063,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And how about now? Do you have chores now? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f24d47e0-956a-4d9a-b83f-b4217511a917"
+    },
+    {
+      "start_time": 1063,
+      "end_time": 1069,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not as much at my age. I'm already almost 86, and I don't do too many chores. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "41b078dd-d159-46e2-963a-d7f78cf8d839"
+    },
+    {
+      "start_time": 1069,
+      "end_time": 1083,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "That's good. Um, So now um, did you ever tell a story about another person thinking the other person was not near you? But then turned around and saw that person was standing right next to you? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "eb750f67-9570-4801-8471-784af7036015"
+    },
+    {
+      "start_time": 1083,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't remember. No. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c4d09e86-dd68-4480-9fe4-45bcc4cc6988"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No? That's okay. Some people think that it's hard for boys and girls to be friends. What do you think?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "fb3e95fe-1e6e-43f2-ac6c-980e201c3333"
+    },
+    {
+      "start_time": 1094,
+      "end_time": 1116,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh no No, no, I think it's, I have a lot of, in fact, growing up all of my, all of my friends' boyfriends were my, you know, their actual romantic boyfriends were my best friends. [CHUCKLES]. I think it's very possible to have boys be friends. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "eb90ded6-a625-499c-8eb1-5985b8c8d6f9"
+    },
+    {
+      "start_time": 1116,
+      "end_time": 1123,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And a lot, this is the last question. A lot of people think of the 1990s as the golden decade of pop music. Do you agree? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "2a039334-ec74-4edb-bca9-709218c7b051"
+    },
+    {
+      "start_time": 1123,
+      "end_time": 1131,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhmmm yes, probably. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "771dd8c7-bd8c-46a6-83c9-29a498e240a3"
+    },
+    {
+      "start_time": 1131,
+      "end_time": 1178,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so that is the last of the questions. Um, I really appreciate you talking to me. It was really fun. So now, um, my last request is the standardized reading passage module. So I'm just going to explain why we're doing this. So one of the overarching research questions through the Home to Texas program is about linguistic changes in Texas. As part of this project, a linguistic researchers asking the interview participants read a brief passage, which only take a couple of minutes. It is a short made up story about life in Texas that was created in the 1980s and since then, the linguistic researchers have recorded a few 100 Texans reading it. They use his recordings as samples of people's standard way of speaking as they try to track how speech in Texas varies and changes over time. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "28acb1db-2d6f-4df8-841d-23ee2130d567"
+    },
+    {
+      "start_time": 1178,
+      "end_time": 1180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Let me get my glasses. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c88066ac-38be-423f-8d95-b7a781adf054"
+    },
+    {
+      "start_time": 1180,
+      "end_time": 1185,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. [RESIDENT STANDS UP TO GET GLASSES] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "cfc27eaf-282b-4918-8184-453a9056b294"
+    },
+    {
+      "start_time": 1185,
+      "end_time": 1199,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I have my kitchen glasses, I have my glasses in my, in my on my desk by the computer. [RESIDENT SITS BACK DOWN] But I don't normally need to have glasses. I don't need them for driving or anything, just close up. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "065ba3c2-4296-4b76-b8da-c3f82e088a6e"
+    },
+    {
+      "start_time": 1199,
+      "end_time": 1203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, so whenever you're ready, you can just read it out loud. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "270563b8-a78f-4611-9bfb-a3fd97a67476"
+    },
+    {
+      "start_time": 1203,
+      "end_time": 1536,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\"I've lived in Texas all my life. I was born in Titus County. And when I was five, we moved to a farm near White House, which is south east of Tyler. [CHUCKLES] I like growing up in [STUTTERS] in the country. When my [STUTTERS] chores were done, I'd ride my horse, climb trees or hike down to the creek to fish or swim. One time we tied, we tied a rope to a limb of a cypress tree, and we'd swing out wide over the swimming hole and drop into the water. I pretend to be Tarzan [CHUCKLES] swinging on a vine. In the spring, I fly kites and on summer nights we'd catch fireflies, but we call them lightning bugs. Once in a while, we have fights with corn cobs or pine cones. In the winter would build a fire in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was the live wire. When I was 19 I went to work in Dallas as a Firestone Tire store, at a Firestone tires store. I didn't like city life, and for a long time I'd go home every chance I got. Momma would always cook my favorite foods fried: okra, Hoppin' John, that's rice and black eyed peas, and pecan pie. We had lots of good times, but going home is not the same now. After daddy died, mama sold the farm and moved to Tyler. I'd rather be living on a farm right now instead of here in the city. But my wife and kids don't understand me. When I gripe about city life and talk about moving to the county, to the country. My oldest child says, \"Daddy, that's crazy. I just die if I had to live on a farm\" [CHUCKLES MIDSENTENCE]. I almost cried the first time she said that. I know Texas is changing, but I tried to make sure we don't touch, loose touching with our roots. While we may live in a city, I want my kids to have a good feeling for free land, for the land, have a sense of place and take pride in being Texans. If they lose our ties to the land, the price of progress is too high.\"  When I read, the first thing that jumped out at me when they're trying to say they [INAUDIBLE] moved to Tyler. Anybody that moved to Tay-Tyler that was Hispanic would have a big problem.[CHUCKLES]  Because Tyler was not only very much against Mexicans, it was also, in my time, it was also very much against Catholics. [CHUCKLES] When all my friends that started dating, when the well, she was my daughter's father in law- mother in law, she's passed away. And she told me a story about that when when she went her, intended well, they ended up getting married, but they were in high school. And so this this guy is calling her and her his best friend is saying,  \"Ask her ask her, ask her if she's a Catholic\". And so he said, \"Are you Catholic?\" And she because there was very few people in Tyler, Texas. And this was like probably in the more like in the 40, no, no, she was a tiny bit younger than me so it had to be the 50s. And she she said that, he asked her and she said \"Yes I'm [INAUDIBLE],\"  \"Hang up hang up, she's Catholic!\" [LAUGHS] And I thought, boy never have I, I've seen discrimination with race but never with religion, but Tyler, Texas is very. But uh, it is true farm life, if you grew up in the farm, and [COMMUNITY NAME] was almost, I have no idea how I had this in my mind. My mother and her sister, her only sister were very close. And when my grandparents moved to [COMMUNITY NAME], they bought a lot that was sort of rec-rectangular. And as we grew up [INAUDIBLE] I, when they grew up my mother and her sister. And, um, they ended up getting married here in [COMMUNITY NAME]. And they, they build their houses in that lot. One was facing the west side and the other one was facing the east side, and they shared a backyard. And in that backyard, man they had, after a while my uncle had opened a store and my daddy had, he built a little store there. And my father had built a little service station type of repair shop that's what it was. Yeah, auto repair shop. And I when I came back from college and I was, the, the place was up for sale, and I was, really wanted to buy it. I wanted to keep it. My son said \"Mom, you're crazy. You know, it's, it's it's a bad neighborhood,\" I said, but it wasn't bad when I was growing up! And then I went to look at it anyway. And I have no idea how small both our houses could have been because there's only room for one nice house that my uncle built because he ended up owning it. And a backyard and how do we had two businesses, two houses [LAUGHS]. But yeah, [LAUGHS] I wanted it, I wanted that property back, because it would remind me of my childhood. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "e43992b4-dba3-411c-95bc-f2695985f073"
+    },
+    {
+      "start_time": 1536,
+      "end_time": 1546,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[CHUCKLES] Yeah. Well, thank you so much for sharing. Um, I really appreciate your time and generosity. So if you don't have any other questions, I'm gonna go ahead and stop the recording. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "10a2c2c3-5068-43f1-bf42-92c8f79791ff"
+    }
+  ],
   "set": "Default",
   "event_id": "378dfef7-771b-43bb-a7ee-c188c3273174",
   "source_id": "f4616ebf-7ceb-4dd2-86bb-7fcdb5a50f94"
