@@ -3,7 +3,7 @@
     "908cf39f-a731-4156-b7cd-697e21c88af0": {
       "label": "Language_Weslaco_JO_07212024",
       "is_offline": false,
-      "file_url": "https://ia600500.us.archive.org/20/items/language-weslaco-jo-07212024/Language_Weslaco_JO_07212024.m4a",
+      "file_url": "https://archive.org/download/language-weslaco-jo-07212024/JO_07212024.mp3",
       "duration": 688,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Weslaco_JO_07212024",
   "created_at": "2024-11-30T02:39:28.195Z",
   "created_by": "speaktexan",
-  "updated_at": "2024-11-30T02:39:28.195Z",
-  "updated_by": "speaktexan"
+  "updated_at": "2025-06-29T21:21:05.712Z",
+  "updated_by": "squant18",
+  "av_file_order": [
+    "908cf39f-a731-4156-b7cd-697e21c88af0"
+  ]
 }
