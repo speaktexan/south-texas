@@ -3,8 +3,8 @@
     "b8500e56-320a-43e7-a591-f6abcc3a7e0b": {
       "label": "Language_Mission_KR_06262024",
       "is_offline": false,
-      "file_url": "https://archive.org/download/language-mission-kr-06262024/Language_Mission_KR_06262024.m4a",
-      "duration": 90,
+      "file_url": "https://archive.org/download/language-mission-kr-06262024/KR_06262024.mp3",
+      "duration": 4954,
       "caption_set": []
     }
   },
@@ -24,6 +24,9 @@
   "label": "Language_Mission_KR_06262024",
   "created_at": "2024-12-01T22:27:14.343Z",
   "created_by": "speaktexan",
-  "updated_at": "2024-12-01T22:27:14.343Z",
-  "updated_by": "speaktexan"
+  "updated_at": "2025-06-29T21:17:37.316Z",
+  "updated_by": "squant18",
+  "av_file_order": [
+    "b8500e56-320a-43e7-a591-f6abcc3a7e0b"
+  ]
 }
